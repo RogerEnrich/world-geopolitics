@@ -6,17 +6,25 @@
     <title>World Geopolitics</title>
 
     <style>
+        * {
+            box-sizing: border-box;
+        }
+
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background: #f4f6f8;
+            background: #f3f4f6;
             color: #1f2937;
+            line-height: 1.6;
         }
 
         header {
             background: #111827;
             color: white;
-            padding: 20px 8%;
+            padding: 18px 8%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
 
         header a {
@@ -25,20 +33,55 @@
             font-weight: bold;
         }
 
-        .country-header {
-            padding: 60px 8%;
+        .country-hero {
             background: white;
-            border-bottom: 1px solid #ddd;
+            padding: 50px 8%;
+            border-bottom: 1px solid #e5e7eb;
         }
 
-        .country-header h1 {
+        .country-title {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .flag {
+            font-size: 64px;
+        }
+
+        .country-title h1 {
+            margin: 0;
             font-size: 48px;
-            margin: 0 0 10px;
         }
 
-        .country-header p {
-            font-size: 18px;
+        .country-title p {
+            margin: 5px 0 0;
             color: #6b7280;
+            font-size: 18px;
+        }
+
+        .quick-facts {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 16px;
+        }
+
+        .fact {
+            background: #f9fafb;
+            padding: 18px;
+            border-radius: 12px;
+            border: 1px solid #e5e7eb;
+        }
+
+        .fact span {
+            display: block;
+            color: #6b7280;
+            font-size: 14px;
+        }
+
+        .fact strong {
+            font-size: 18px;
         }
 
         .content {
@@ -49,14 +92,53 @@
 
         .section {
             background: white;
-            padding: 28px;
+            padding: 30px;
             margin-bottom: 24px;
-            border-radius: 12px;
-            box-shadow: 0 3px 12px rgba(0,0,0,0.06);
+            border-radius: 14px;
+            box-shadow: 0 3px 12px rgba(0,0,0,0.05);
         }
 
         .section h2 {
             margin-top: 0;
+            font-size: 26px;
+        }
+
+        .key-points {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 16px;
+        }
+
+        .key-point {
+            background: #f9fafb;
+            padding: 18px;
+            border-radius: 10px;
+        }
+
+        .sources {
+            font-size: 14px;
+            color: #6b7280;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: #6b7280;
+            font-size: 14px;
+        }
+
+        @media (max-width: 700px) {
+            .country-title {
+                align-items: flex-start;
+            }
+
+            .country-title h1 {
+                font-size: 36px;
+            }
+
+            .flag {
+                font-size: 50px;
+            }
         }
     </style>
 </head>
@@ -65,53 +147,158 @@
 
 <header>
     <a href="index.html">🌍 World Geopolitics</a>
+    <a href="index.html">Tornar al mapa</a>
 </header>
 
-<div class="country-header">
-    <h1 id="country-name">País</h1>
-    <p id="country-subtitle">Informació geopolítica</p>
-</div>
+<section class="country-hero">
 
-<div class="content">
+    <div class="country-title">
+        <div class="flag" id="country-flag">🌍</div>
 
-    <div class="section">
+        <div>
+            <h1 id="country-name">País</h1>
+            <p id="country-subtitle">Informació geopolítica</p>
+        </div>
+    </div>
+
+    <div class="quick-facts">
+
+        <div class="fact">
+            <span>Capital</span>
+            <strong id="capital">—</strong>
+        </div>
+
+        <div class="fact">
+            <span>Població</span>
+            <strong id="population">—</strong>
+        </div>
+
+        <div class="fact">
+            <span>Superfície</span>
+            <strong id="area">—</strong>
+        </div>
+
+        <div class="fact">
+            <span>Moneda</span>
+            <strong id="currency">—</strong>
+        </div>
+
+        <div class="fact">
+            <span>Forma d'Estat</span>
+            <strong id="government">—</strong>
+        </div>
+
+        <div class="fact">
+            <span>Llengües</span>
+            <strong id="languages">—</strong>
+        </div>
+
+    </div>
+
+</section>
+
+<main class="content">
+
+    <section class="section">
+        <h2>🔑 Punts clau</h2>
+
+        <div class="key-points" id="key-points"></div>
+    </section>
+
+    <section class="section">
         <h2>🏛 Política</h2>
         <p id="politics"></p>
-    </div>
+    </section>
 
-    <div class="section">
+    <section class="section">
         <h2>💰 Economia</h2>
         <p id="economy"></p>
-    </div>
+    </section>
 
-    <div class="section">
+    <section class="section">
         <h2>👥 Demografia i societat</h2>
         <p id="society"></p>
-    </div>
+    </section>
 
-    <div class="section">
+    <section class="section">
         <h2>🌍 Geopolítica</h2>
         <p id="geopolitics"></p>
-    </div>
+    </section>
 
-    <div class="section">
+    <section class="section">
         <h2>🤝 Relacions internacionals</h2>
         <p id="relations"></p>
-    </div>
+    </section>
 
-</div>
+    <section class="section">
+        <h2>🛡 Defensa</h2>
+        <p id="defense"></p>
+    </section>
+
+    <section class="section">
+        <h2>📚 Fonts i actualització</h2>
+
+        <div class="sources">
+            <p id="sources"></p>
+            <p><strong>Última actualització:</strong> <span id="updated"></span></p>
+        </div>
+    </section>
+
+</main>
+
+<footer>
+    World Geopolitics
+</footer>
 
 <script>
 const countries = {
+
     Canada: {
         name: "Canadà",
+        flag: "🇨🇦",
         subtitle: "Amèrica del Nord",
-        politics: "Informació política del Canadà.",
-        economy: "Informació econòmica del Canadà.",
-        society: "Informació demogràfica i social del Canadà.",
-        geopolitics: "Informació geopolítica del Canadà.",
-        relations: "Informació sobre les relacions internacionals del Canadà."
+
+        capital: "Ottawa",
+        population: "40 milions",
+        area: "9,98 milions km²",
+        currency: "Dòlar canadenc",
+        government: "Monarquia parlamentària federal",
+        languages: "Anglès i francès",
+
+        keyPoints: [
+            "Una de les economies més desenvolupades del món.",
+            "Membre del G7, l’OTAN i diverses institucions occidentals.",
+            "Manté una relació econòmica i estratègica molt estreta amb els Estats Units.",
+            "Disposa d’enormes reserves de recursos naturals.",
+            "L’Àrtic té una importància geopolítica creixent.",
+            "És un estat federal amb una gran diversitat regional."
+        ],
+
+        politics:
+        "El Canadà és una democràcia parlamentària federal. El poder polític es reparteix entre el govern federal i les províncies. El país presenta una elevada estabilitat institucional i un sistema multipartidista.",
+
+        economy:
+        "El Canadà té una economia avançada, molt integrada amb la dels Estats Units. Destaquen els sectors energètic, miner, financer, tecnològic, agrícola i manufacturer. Els recursos naturals tenen una importància especialment elevada.",
+
+        society:
+        "És un país molt urbanitzat i amb una població fortament concentrada a les zones meridionals, prop de la frontera amb els Estats Units. La immigració té un paper important en el creixement demogràfic.",
+
+        geopolitics:
+        "El Canadà forma part del bloc occidental i manté una estreta cooperació amb els Estats Units i Europa. La seva enorme extensió territorial i la seva presència a l’Àrtic li donen una posició geoestratègica rellevant.",
+
+        relations:
+        "Els Estats Units són el principal soci econòmic i estratègic del Canadà. També manté fortes relacions amb Europa i participa activament en organismes com l’ONU, l’OTAN, el G7 i el G20.",
+
+        defense:
+        "Les Forces Armades canadenques participen en missions de l’OTAN i en la defensa del territori nord-americà. El país coopera especialment amb els Estats Units en matèria de defensa aeroespacial i seguretat continental.",
+
+        sources:
+        "Exemple provisional. En la versió definitiva s’hi inclouran fonts oficials i organismes internacionals.",
+
+        updated:
+        "Setembre de 2026"
     }
+
 };
 
 const params = new URLSearchParams(window.location.search);
@@ -120,17 +307,44 @@ const countryId = params.get("country");
 const country = countries[countryId];
 
 if (country) {
+
     document.getElementById("country-name").textContent = country.name;
+    document.getElementById("country-flag").textContent = country.flag;
     document.getElementById("country-subtitle").textContent = country.subtitle;
+
+    document.getElementById("capital").textContent = country.capital;
+    document.getElementById("population").textContent = country.population;
+    document.getElementById("area").textContent = country.area;
+    document.getElementById("currency").textContent = country.currency;
+    document.getElementById("government").textContent = country.government;
+    document.getElementById("languages").textContent = country.languages;
+
     document.getElementById("politics").textContent = country.politics;
     document.getElementById("economy").textContent = country.economy;
     document.getElementById("society").textContent = country.society;
     document.getElementById("geopolitics").textContent = country.geopolitics;
     document.getElementById("relations").textContent = country.relations;
+    document.getElementById("defense").textContent = country.defense;
+
+    document.getElementById("sources").textContent = country.sources;
+    document.getElementById("updated").textContent = country.updated;
+
+    const keyPointsContainer = document.getElementById("key-points");
+
+    country.keyPoints.forEach(point => {
+        const div = document.createElement("div");
+        div.className = "key-point";
+        div.textContent = point;
+        keyPointsContainer.appendChild(div);
+    });
 
     document.title = country.name + " | World Geopolitics";
+
 } else {
-    document.getElementById("country-name").textContent = "País no disponible";
+
+    document.getElementById("country-name").textContent =
+        "País no disponible";
+
 }
 </script>
 
