@@ -339,7 +339,8 @@ const country = countries[countryId];
 if (country) {
 
     document.getElementById("country-name").textContent = country.name;
-    document.getElementById("country-flag").textContent = country.flag;
+    document.getElementById("country-flag").src = country.flag;
+m    document.getElementById("country-flag").alt = "Bandera de " + country.name;
     document.getElementById("country-subtitle").textContent = country.subtitle;
 
     document.getElementById("country-description").textContent =
