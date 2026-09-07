@@ -146,7 +146,7 @@
             margin: 60px auto;
         }
 
-        .map-container img {
+        #world-map svg {
             width: 100%;
             height: auto;
             display: block;
@@ -206,8 +206,37 @@
             🌍 Explorar el mapa
         </a>
         <div class="map-container">
-    <img src="world-map.svg" alt="Mapa mundial">
+    <div id="world-map"></div>
 </div>
+
+<script>
+fetch('world-map.svg')
+    .then(response => response.text())
+    .then(svgText => {
+        document.getElementById('world-map').innerHTML = svgText;
+
+        const svg = document.querySelector('#world-map svg');
+        const countries = svg.querySelectorAll('g[id]');
+
+        countries.forEach(country => {
+
+            country.style.cursor = 'pointer';
+
+            country.addEventListener('mouseenter', () => {
+                country.style.opacity = '0.6';
+            });
+
+            country.addEventListener('mouseleave', () => {
+                country.style.opacity = '1';
+            });
+
+            country.addEventListener('click', () => {
+                alert('Has clicat: ' + country.id);
+            });
+
+        });
+    });
+</script>
 
     </section>
 
