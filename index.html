@@ -234,8 +234,11 @@ fetch('world-map.svg')
 
             country.addEventListener('click', (event) => {
                 event.stopPropagation();
-                alert('Has clicat: ' + country.id);
-            });
+
+                if (country.id === "Canada") {
+                window.location.href = "country.html?country=Canada";
+    }
+});
 
         });
     });
