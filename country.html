@@ -331,6 +331,12 @@ if (country) {
     document.getElementById("country-flag").textContent = country.flag;
     document.getElementById("country-subtitle").textContent = country.subtitle;
 
+    document.getElementById("country-description").textContent =
+    country.description;
+
+    document.getElementById("country-map-image").src =
+    country.map;
+
     document.getElementById("capital").textContent = country.capital;
     document.getElementById("population").textContent = country.population;
     document.getElementById("area").textContent = country.area;
