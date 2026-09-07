@@ -3,14 +3,277 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>World Geopolitics</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f6f8;
+            color: #17202a;
+        }
+
+        /* ───── CAPÇALERA ───── */
+
+        header {
+            height: 70px;
+            background: #17202a;
+            color: white;
+
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            padding: 0 6%;
+        }
+
+        .logo {
+            font-size: 22px;
+            font-weight: bold;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin-left: 30px;
+            font-size: 15px;
+        }
+
+        nav a:hover {
+            opacity: 0.7;
+        }
+
+        /* ───── HERO ───── */
+
+        .hero {
+            min-height: 520px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            text-align: center;
+
+            padding: 60px 20px;
+        }
+
+        .hero h1 {
+            font-size: 64px;
+            max-width: 900px;
+            margin-bottom: 25px;
+        }
+
+        .hero p {
+            font-size: 21px;
+            color: #5d6873;
+            max-width: 650px;
+            line-height: 1.6;
+            margin-bottom: 40px;
+        }
+
+        .button {
+            display: inline-block;
+
+            background: #17202a;
+            color: white;
+
+            padding: 15px 30px;
+
+            border-radius: 8px;
+
+            text-decoration: none;
+            font-size: 17px;
+
+            transition: 0.2s;
+        }
+
+        .button:hover {
+            transform: translateY(-2px);
+            opacity: 0.9;
+        }
+
+        /* ───── SECCIÓ ───── */
+
+        .section {
+            padding: 80px 8%;
+            background: white;
+        }
+
+        .section h2 {
+            text-align: center;
+            font-size: 36px;
+            margin-bottom: 50px;
+        }
+
+        .cards {
+            display: grid;
+
+            grid-template-columns:
+                repeat(auto-fit, minmax(220px, 1fr));
+
+            gap: 25px;
+        }
+
+        .card {
+            padding: 30px;
+
+            background: #f5f6f8;
+
+            border-radius: 12px;
+
+            text-align: center;
+        }
+
+        .card .icon {
+            font-size: 35px;
+            margin-bottom: 15px;
+        }
+
+        .card h3 {
+            margin-bottom: 10px;
+        }
+
+        .card p {
+            color: #68727d;
+            line-height: 1.5;
+        }
+
+        /* ───── FOOTER ───── */
+
+        footer {
+            background: #17202a;
+            color: #bfc5ca;
+
+            text-align: center;
+
+            padding: 30px;
+        }
+    </style>
 </head>
 
 <body>
-    <h1>🌍 World Geopolitics</h1>
 
-    <p>Mapa interactiu de la geopolítica mundial.</p>
+    <!-- CAPÇALERA -->
 
-    <p>La nostra web està en construcció.</p>
+    <header>
+
+        <div class="logo">
+            🌍 World Geopolitics
+        </div>
+
+        <nav>
+            <a href="#">Inici</a>
+            <a href="#">Països</a>
+            <a href="#">Sobre el projecte</a>
+        </nav>
+
+    </header>
+
+
+    <!-- PORTADA -->
+
+    <section class="hero">
+
+        <h1>
+            Entén el món.
+        </h1>
+
+        <p>
+            Explora els països del món i descobreix la seva
+            realitat política, econòmica, social i geopolítica.
+        </p>
+
+        <a class="button" href="#">
+            🌍 Explorar el mapa
+        </a>
+
+    </section>
+
+
+    <!-- INFORMACIÓ -->
+
+    <section class="section">
+
+        <h2>
+            Explora el món des de diferents perspectives
+        </h2>
+
+        <div class="cards">
+
+            <div class="card">
+
+                <div class="icon">🏛️</div>
+
+                <h3>Política</h3>
+
+                <p>
+                    Governs, sistemes polítics, partits,
+                    institucions i ideologies.
+                </p>
+
+            </div>
+
+
+            <div class="card">
+
+                <div class="icon">💰</div>
+
+                <h3>Economia</h3>
+
+                <p>
+                    PIB, comerç, sectors econòmics,
+                    riquesa i desenvolupament.
+                </p>
+
+            </div>
+
+
+            <div class="card">
+
+                <div class="icon">👥</div>
+
+                <h3>Societat</h3>
+
+                <p>
+                    Població, demografia, desigualtat
+                    i indicadors socials.
+                </p>
+
+            </div>
+
+
+            <div class="card">
+
+                <div class="icon">🌐</div>
+
+                <h3>Geopolítica</h3>
+
+                <p>
+                    Aliances, conflictes, influència
+                    internacional i relacions entre estats.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- FOOTER -->
+
+    <footer>
+
+        World Geopolitics · Projecte en desenvolupament
+
+    </footer>
+
 </body>
 </html>
