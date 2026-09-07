@@ -3,7 +3,7 @@ const countries = {
     Canada: {
 
     name: "Canadà",
-    flag: "🇨🇦",
+    flag: "canada-flag.svg",
     subtitle: "Amèrica del Nord",
 
     description:
