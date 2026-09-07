@@ -13,7 +13,7 @@ const countries = {
 
     capital: "Ottawa",
 
-    population: "41.417.056",
+    population: "41.417.056 d'habitants",
 
     area: "9,98 milions km²",
 
