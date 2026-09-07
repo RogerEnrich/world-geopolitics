@@ -5,7 +5,7 @@ const countries = {
     name: "Canadà",
     flag: "canada-flag.svg",
     subtitle: "Amèrica del Nord",
-
+        
     description:
     "Una gran potència territorial i econòmica del nord d’Amèrica, estretament vinculada als Estats Units i amb una posició estratègica creixent a l’Àrtic.",
 
