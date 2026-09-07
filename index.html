@@ -209,6 +209,8 @@
     <div id="world-map"></div>
 </div>
 
+     <script src="countries.js"></script>
+
 <script>
 fetch('world-map.svg')
     .then(response => response.text())
@@ -222,25 +224,38 @@ fetch('world-map.svg')
 
         countries.forEach(country => {
 
-            country.style.cursor = 'pointer';
+    const isAvailable = countriesData[country.id];
 
-            country.addEventListener('mouseenter', () => {
-                country.style.opacity = '0.6';
-            });
+    if (isAvailable) {
 
-            country.addEventListener('mouseleave', () => {
-                country.style.opacity = '1';
-            });
-
-            country.addEventListener('click', (event) => {
-                event.stopPropagation();
-
-                if (country.id === "Canada") {
-                window.location.href = "country.html?country=Canada";
-    }
-});
-
+        country.querySelectorAll('path, polygon').forEach(shape => {
+            shape.style.fill = '#4f7c65';
         });
+
+        country.style.cursor = 'pointer';
+
+        country.addEventListener('mouseenter', () => {
+            country.style.opacity = '0.7';
+        });
+
+        country.addEventListener('mouseleave', () => {
+            country.style.opacity = '1';
+        });
+
+        country.addEventListener('click', (event) => {
+            event.stopPropagation();
+
+            window.location.href =
+                'country.html?country=' + encodeURIComponent(country.id);
+        });
+
+    } else {
+
+        country.style.cursor = 'default';
+
+    }
+
+});
     });
 </script>
 
