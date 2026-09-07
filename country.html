@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Geopolitics</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+            color: #1f2937;
+        }
+
+        header {
+            background: #111827;
+            color: white;
+            padding: 20px 8%;
+        }
+
+        header a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .country-header {
+            padding: 60px 8%;
+            background: white;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .country-header h1 {
+            font-size: 48px;
+            margin: 0 0 10px;
+        }
+
+        .country-header p {
+            font-size: 18px;
+            color: #6b7280;
+        }
+
+        .content {
+            width: 84%;
+            max-width: 1200px;
+            margin: 40px auto;
+        }
+
+        .section {
+            background: white;
+            padding: 28px;
+            margin-bottom: 24px;
+            border-radius: 12px;
+            box-shadow: 0 3px 12px rgba(0,0,0,0.06);
+        }
+
+        .section h2 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <a href="index.html">🌍 World Geopolitics</a>
+</header>
+
+<div class="country-header">
+    <h1 id="country-name">País</h1>
+    <p id="country-subtitle">Informació geopolítica</p>
+</div>
+
+<div class="content">
+
+    <div class="section">
+        <h2>🏛 Política</h2>
+        <p id="politics"></p>
+    </div>
+
+    <div class="section">
+        <h2>💰 Economia</h2>
+        <p id="economy"></p>
+    </div>
+
+    <div class="section">
+        <h2>👥 Demografia i societat</h2>
+        <p id="society"></p>
+    </div>
+
+    <div class="section">
+        <h2>🌍 Geopolítica</h2>
+        <p id="geopolitics"></p>
+    </div>
+
+    <div class="section">
+        <h2>🤝 Relacions internacionals</h2>
+        <p id="relations"></p>
+    </div>
+
+</div>
+
+<script>
+const countries = {
+    Canada: {
+        name: "Canadà",
+        subtitle: "Amèrica del Nord",
+        politics: "Informació política del Canadà.",
+        economy: "Informació econòmica del Canadà.",
+        society: "Informació demogràfica i social del Canadà.",
+        geopolitics: "Informació geopolítica del Canadà.",
+        relations: "Informació sobre les relacions internacionals del Canadà."
+    }
+};
+
+const params = new URLSearchParams(window.location.search);
+const countryId = params.get("country");
+
+const country = countries[countryId];
+
+if (country) {
+    document.getElementById("country-name").textContent = country.name;
+    document.getElementById("country-subtitle").textContent = country.subtitle;
+    document.getElementById("politics").textContent = country.politics;
+    document.getElementById("economy").textContent = country.economy;
+    document.getElementById("society").textContent = country.society;
+    document.getElementById("geopolitics").textContent = country.geopolitics;
+    document.getElementById("relations").textContent = country.relations;
+
+    document.title = country.name + " | World Geopolitics";
+} else {
+    document.getElementById("country-name").textContent = "País no disponible";
+}
+</script>
+
+</body>
+</html>
