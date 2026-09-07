@@ -216,7 +216,9 @@ fetch('world-map.svg')
         document.getElementById('world-map').innerHTML = svgText;
 
         const svg = document.querySelector('#world-map svg');
-        const countries = svg.querySelectorAll('g[id]');
+        const countries = [...svg.querySelectorAll('g[id]')].filter(country => {
+        return !country.querySelector('g[id]');
+        });
 
         countries.forEach(country => {
 
