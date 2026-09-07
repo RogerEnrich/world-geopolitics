@@ -230,7 +230,8 @@ fetch('world-map.svg')
                 country.style.opacity = '1';
             });
 
-            country.addEventListener('click', () => {
+            country.addEventListener('click', (event) => {
+                event.stopPropagation();
                 alert('Has clicat: ' + country.id);
             });
 
