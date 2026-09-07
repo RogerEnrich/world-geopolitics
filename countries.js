@@ -1,16 +1,29 @@
 const countries = {
 
     Canada: {
-        name: "Canadà",
-        flag: "🇨🇦",
-        subtitle: "Amèrica del Nord",
 
-        capital: "Ottawa",
-        population: "40 milions",
-        area: "9,98 milions km²",
-        currency: "Dòlar canadenc",
-        government: "Monarquia parlamentària federal",
-        languages: "Anglès i francès",
+    name: "Canadà",
+    flag: "🇨🇦",
+    subtitle: "Amèrica del Nord",
+
+    description:
+    "Una gran potència territorial i econòmica del nord d’Amèrica, estretament vinculada als Estats Units i amb una posició estratègica creixent a l’Àrtic.",
+
+    map: "canada-map.svg",
+
+    capital: "Ottawa",
+
+    population: "41.417.056",
+
+    area: "9,98 milions km²",
+
+    currency: "Dòlar canadenc (CAD)",
+
+    government:
+    "Federació · Democràcia parlamentària · Monarquia constitucional",
+
+    languages:
+    "Anglès i francès",
 
         keyPoints: [
             "Una de les economies més desenvolupades del món.",
