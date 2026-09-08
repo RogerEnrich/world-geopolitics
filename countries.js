@@ -554,6 +554,11 @@ actualmente un partido muy minoritario.
              alt="Drew Garvie, Líder del Partido Comunista">
     </div>
 </div>
+
+<figure class="article-image">
+    <img src="paisos/canada/logos-partits-canada.png" alt="Termòmetre polític">
+    <figcaption>Termómetro político canadiense</figcaption>
+</figure>
        `,
 
         
