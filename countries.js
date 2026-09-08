@@ -161,7 +161,7 @@ en su circunscripción.
 
     <figure class="article-image">
         <img src="paisos/canada/canada-districts-map.png" alt="Mapa electoral del Canadà">
-        <figcaption>Districtes electorals federals del Canadà.</figcaption>
+        <figcaption>Distritos electorales federales de Canadá</figcaption>
     </figure>
 
     <figure class="article-image">
