@@ -444,7 +444,7 @@ importante es la defensa de la lengua francesa y de la identidad nacional quebeq
             </p>
         </div>
         <img class="party-leader"
-             src="paisos/canada/lider-bloc.jpg"
+             src="paisos/canada/lider-bloc.png"
              alt="Yves-François Blanchet, Líder de Bloc Québécois">
     </div>
 </div>
