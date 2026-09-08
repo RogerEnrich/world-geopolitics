@@ -2,9 +2,9 @@ const countriesData = {
 
     Canada: {
 
-    name: "Canadà",
+    name: "Canadá",
     flag: "canada-flag.svg",
-    subtitle: "Amèrica del Nord",
+    subtitle: "América del Norte",
         
     description:
     "Una gran potència territorial i econòmica del nord d’Amèrica, estretament vinculada als Estats Units i amb una posició estratègica creixent a l’Àrtic.",
@@ -13,17 +13,17 @@ const countriesData = {
 
     capital: "Ottawa",
 
-    population: "41.417.056 d'habitants",
+    population: "41.417.056 de habitantes",
 
-    area: "9,98 milions km²",
+    area: "9,98 millones km²",
 
-    currency: "Dòlar canadenc (CAD)",
+    currency: "Dolar canadiense (CAD)",
 
     government:
-    "Federació · Democràcia parlamentària · Monarquia constitucional",
+    "Federación · Democracia parlamentaria · Monarquia constitucional",
 
     languages:
-    "Anglès i francès",
+    "Inglés i francés",
 
         keyPoints: [
             "Una de les economies més desenvolupades del món.",
@@ -61,12 +61,64 @@ const countriesData = {
         una ley escrita, determinan cómo deben actuar las instituciones.
     </p>
 
-    <!-- aquí continuarías con los demás párrafos -->
-
     <h3>Estado federal</h3>
 
     <p>
-        <!-- aquí va tu texto sobre el Estado federal -->
+        En cuanto a su organización territorial, Canadá es un <strong>Estado federal</strong>, es decir, un país en el que las
+        competencias políticas están repartidas entre un Gobierno federal y diferentes gobiernos provinciales.
+
+    </p>
+
+    <p>
+        Las provincias no son simplemente divisiones administrativas controladas por Ottawa, sino que
+        disponen de poderes propios reconocidos y protegidos por la Constitución.
+    </p>
+
+    <p>
+        El <strong>Gobierno federal</strong>, con sede en Ottawa, se ocupa principalmente de aquellas competencias que
+        afectan al conjunto del país. Entre ellas se encuentran la defensa y las Fuerzas Armadas, la política
+        exterior, el comercio internacional, la moneda y el sistema bancario, el derecho penal y determinadas
+        cuestiones fiscales, entre otras.
+    </p>
+
+    <p>
+        Por otro lado, los <strong>gobiernos provinciales</strong> disponen de competencias propias. Entre las más
+        importantes se encuentran la educación, la sanidad, la administración municipal, los recursos naturales,
+        la propiedad y los derechos civiles y numerosas cuestiones de carácter local.
+    </p>
+
+    <p>
+        Por este motivo, el sistema educativo de Ontario, por ejemplo, puede ser diferente al de Manitoba a
+        pesar de que ambas provincias formen parte del mismo país. También existen ámbitos en los que
+        participan tanto el Gobierno federal como los gobiernos provinciales, como ocurre con determinadas
+        cuestiones relacionadas con la agricultura o la inmigración.
+    </p>
+
+    <p>
+        Además, cada provincia dispone de sus <strong>propias instituciones políticas</strong>. Al igual que ocurre a nivel
+        federal, los ciudadanos eligen representantes para formar una asamblea legislativa provincial. De ella
+        surge un Gobierno dirigido por un <strong>premier</strong>, que desempeña dentro de la provincia una función
+        comparable a la del primer ministro a nivel federal. El premier selecciona a sus ministros y dirige el
+        Gobierno provincial, mientras que el teniente gobernador representa a la Corona.
+    </p>
+
+    <p>
+        Por tanto, una provincia como Ontario no solo dispone de determinadas competencias propias, sino
+        también de su propio Gobierno y Parlamento provincial para ejercerlas.
+    </p>
+
+    <p>
+        Los <strong>tres territorios —Yukon, Territorios del Noroeste y Nunavut—</strong> presentan una situación
+        diferente. Sus competencias no están garantizadas constitucionalmente de la misma manera que las de
+        las provincias. Gran parte de sus poderes han sido transferidos por el Parlamento federal mediante
+        diferentes leyes a través de un proceso conocido como <strong>devolution</strong>.
+    </p>
+
+    <p>
+        Esto significa que, jurídicamente, el Parlamento federal conserva una autoridad mayor sobre los
+        territorios que sobre las provincias. Sin embargo, durante las últimas décadas los territorios han
+        adquirido un elevado grado de autogobierno y actualmente gestionan numerosas competencias de
+        manera similar a las provincias.
     </p>
 
     <h3>Democracia parlamentaria</h3>
