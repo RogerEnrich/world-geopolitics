@@ -370,8 +370,7 @@ ciudadanía y de la confianza del Parlamento.
         politics:
 
             <p>
-        Empezaremos esta sección hablando de los principales partidos y de sus ideologías para empezar a entrar en política interior canadiense y así 
-        tengamos ,
+        "Empezaremos esta sección hablando de los principales partidos y de sus ideologías para empezar a entrar en política interior canadiense y así tengamos" ,
         </p>    
         economy:
         "El Canadà té una economia avançada, molt integrada amb la dels Estats Units. Destaquen els sectors energètic, miner, financer, tecnològic, agrícola i manufacturer. Els recursos naturals tenen una importància especialment elevada.",
