@@ -368,8 +368,11 @@ ciudadanía y de la confianza del Parlamento.
 `,
 
         politics:
-        "El Canadà és una democràcia parlamentària federal. El poder polític es reparteix entre el govern federal i les províncies. El país presenta una elevada estabilitat institucional i un sistema multipartidista.",
 
+            <p>
+        Empezaremos esta sección hablando de los principales partidos y de sus ideologías para empezar a entrar en política interior canadiense y así 
+        tengamos ,
+        </p>    
         economy:
         "El Canadà té una economia avançada, molt integrada amb la dels Estats Units. Destaquen els sectors energètic, miner, financer, tecnològic, agrícola i manufacturer. Els recursos naturals tenen una importància especialment elevada.",
 
