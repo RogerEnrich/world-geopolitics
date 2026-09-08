@@ -275,6 +275,11 @@ seleccionar a los ministros, coordinar el Gabinete y desempeñar un papel fundam
 representación política de Canadá tanto dentro como fuera del país.
 </p>
 
+<figure class="article-image">
+    <img src="mark-carney.jpg" alt="Primer ministre Canadenc">
+    <figcaption>Mark Carney, primer ministro canadiense</figcaption>
+</figure>
+
 <p>
 El <strong>Gabinete</strong> está formado por diferentes ministros seleccionados por el primer ministro. Cada uno es
 responsable de una determinada área de gobierno, como Finanzas, Defensa o Asuntos Exteriores, entre
