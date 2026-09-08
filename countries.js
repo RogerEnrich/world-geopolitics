@@ -154,6 +154,13 @@ simplemente a un partido a escala nacional, sino que votan a uno de los candidat
 en su circunscripción.
     </p>
 
+    <figure class="article-image">
+    <img src="canada-districts-map.png" alt="Mapa dels districtes electorals del Canadà">
+    <figcaption>
+        Districtes electorals federals del Canadà.
+    </figcaption>
+</figure>
+
     <p>
 El candidato que obtiene el mayor número de votos consigue el escaño correspondiente, aunque no
 haya obtenido más del 50 % de los votos. Este sistema electoral recibe el nombre de <strong>First-Past-thePost (FPTP)</strong>.
