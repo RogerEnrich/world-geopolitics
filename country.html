@@ -383,6 +383,9 @@ if (country) {
     document.getElementById("government").textContent = country.government;
     document.getElementById("languages").textContent = country.languages;
 
+    document.getElementById("government-organization").innerHTML =
+    country.governmentOrganization;
+
     document.getElementById("politics").textContent = country.politics;
     document.getElementById("economy").textContent = country.economy;
     document.getElementById("society").textContent = country.society;
