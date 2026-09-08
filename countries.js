@@ -157,12 +157,12 @@ en su circunscripción.
     <div class="image-row">
 
     <figure class="article-image">
-        <img src="canada-electoral-map.png" alt="Mapa electoral del Canadà">
+        <img src="canada-districts-map.png" alt="Mapa electoral del Canadà">
         <figcaption>Districtes electorals federals del Canadà.</figcaption>
     </figure>
 
     <figure class="article-image">
-        <img src="parlament-canada.png" alt="Cámara de Comunes canadiense">
+        <img src="parlament-canada.jpg" alt="Cámara de Comunes canadiense">
         <figcaption>Cámara de Comunes canadiense.</figcaption>
     </figure>
 
