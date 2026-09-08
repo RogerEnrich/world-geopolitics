@@ -241,14 +241,102 @@ en el cargo hasta cumplir los 75 años.
     <h4>Poder ejecutivo</h4>
 
     <p>
-        <!-- texto -->
-    </p>
+El <strong>poder ejecutivo</strong> es el encargado de gobernar el país, desarrollar las políticas públicas y aplicar las
+leyes aprobadas por el Parlamento.
+</p>
+
+<p>
+Formalmente, el poder ejecutivo está atribuido a la <strong>Corona</strong> y es ejercido en su nombre por el
+gobernador general. Sin embargo, en la práctica, las decisiones políticas son tomadas principalmente
+por el <strong>primer ministro y su Gabinete</strong>.
+</p>
+
+<p>
+El primer ministro es el <strong>jefe de Gobierno</strong>. Actualmente este cargo corresponde a <strong>Mark Carney</strong>. Entre
+sus principales funciones se encuentran dirigir el Gobierno, establecer sus prioridades políticas,
+seleccionar a los ministros, coordinar el Gabinete y desempeñar un papel fundamental en la
+representación política de Canadá tanto dentro como fuera del país.
+</p>
+
+<p>
+El <strong>Gabinete</strong> está formado por diferentes ministros seleccionados por el primer ministro. Cada uno es
+responsable de una determinada área de gobierno, como Finanzas, Defensa o Asuntos Exteriores, entre
+muchas otras, y dirige políticamente el departamento correspondiente.
+</p>
+
+<p>
+Debido al carácter parlamentario del sistema canadiense, los poderes legislativo y ejecutivo están
+estrechamente relacionados. El primer ministro y la mayoría de sus ministros suelen ser también
+miembros del Parlamento, generalmente diputados de la Cámara de los Comunes.
+</p>
+
+<p>
+Por tanto, una misma persona puede participar en el poder legislativo como diputado y, al mismo
+tiempo, formar parte del poder ejecutivo como primer ministro o ministro. Esta relación entre
+Parlamento y Gobierno es una de las características fundamentales de una democracia parlamentaria.
+</p>
+
+<p>
+Además, el Gobierno es <strong>responsable ante la Cámara de los Comunes</strong>. Si pierde su confianza en una
+votación fundamental, puede verse obligado a dimitir o pueden convocarse nuevas elecciones,
+dependiendo de las circunstancias. De esta manera, aunque los ciudadanos no eligen directamente al
+primer ministro, el Gobierno depende de una cámara cuyos miembros sí han sido elegidos
+democráticamente.
+</p>
+
 
     <h4>Poder judicial</h4>
 
     <p>
-        <!-- texto -->
+Por último, se encuentra el <strong>poder judicial</strong>, encargado de interpretar y aplicar las leyes, resolver
+conflictos jurídicos y garantizar el cumplimiento de la Constitución.
     </p>
+
+<p>
+La máxima instancia judicial del país es la <strong>Corte Suprema de Canadá</strong>, formada por <strong>nueve jueces</strong>,
+incluido su presidente o Chief Justice. Sus decisiones constituyen la última instancia dentro del sistema
+judicial canadiense.
+</p>
+
+<p>
+Una de las características fundamentales del poder judicial es su <strong>independencia respecto a los
+poderes ejecutivo y legislativo</strong>. Esto significa que el Gobierno y el Parlamento no pueden ordenar a
+los jueces cómo deben resolver los casos que llegan ante ellos.
+</p>
+
+<p>
+Los jueces de la Corte Suprema son nombrados formalmente por el gobernador general siguiendo el
+consejo del Gobierno federal. Sin embargo, una vez nombrados deben ejercer sus funciones con
+independencia respecto al Gobierno.
+</p>
+
+<p>
+La Corte Suprema interviene en casos de especial importancia y desempeña un papel fundamental en
+la <strong>interpretación de la Constitución</strong>. Puede determinar, por ejemplo, si una determinada ley vulnera
+derechos protegidos constitucionalmente o si un Gobierno ha legislado sobre una materia que no
+pertenece a sus competencias.
+</p>
+
+<p>
+Esta última función es especialmente importante debido al carácter federal del país. Si existe un
+conflicto sobre si una determinada competencia corresponde al Gobierno federal o a una provincia, los
+tribunales pueden interpretar la Constitución para determinar qué nivel de gobierno tiene autoridad
+sobre esa cuestión.
+</p>
+
+<p>
+Por debajo de la Corte Suprema existe una amplia estructura de <strong>tribunales federales, provinciales y
+territoriales</strong>. Las provincias y territorios administran una parte importante del sistema de justicia,
+mientras que determinados tribunales y jueces pertenecen al ámbito federal.
+</p>
+
+<p>
+En conjunto, este sistema permite combinar tres características fundamentales del Estado canadiense:
+una <strong>monarquía constitucional</strong>, en la que la Corona actúa como jefatura formal del Estado; un <strong>sistema
+federal</strong>, que reparte las competencias entre diferentes niveles de gobierno; y una <strong>democracia
+parlamentaria</strong>, en la que el poder político efectivo depende de representantes elegidos por la
+ciudadanía y de la confianza del Parlamento.
+ </p>
 
 `,
 
