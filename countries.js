@@ -374,7 +374,7 @@ ciudadanía y de la confianza del Parlamento.
         temas más complejos de política pudiendo saber quien juega a cada bando.
         </p>
 
-        <h3>Principales partidos políticos en Canadá</h3>
+        <h2>Principales partidos políticos en Canadá</h2>
     <p>
         Canadá cuenta con numerosos partidos políticos, aunque solo unos pocos tienen un peso importante a
 escala federal. Los dos principales son el Partido Liberal y el Partido Conservador, que históricamente
