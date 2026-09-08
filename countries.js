@@ -124,13 +124,118 @@ const countriesData = {
     <h3>Democracia parlamentaria</h3>
 
     <p>
-        <!-- aquí va la introducción sobre democracia parlamentaria -->
+        Finalmente, Canadá es una <strong>democracia parlamentaria</strong>. Esto significa que los ciudadanos eligen a sus
+        representantes en el Parlamento y que el Gobierno necesita mantener la confianza de la cámara
+        elegida democráticamente para poder continuar gobernando.
+    </p>
+
+    <p>
+        El sistema político canadiense puede dividirse en las tres ramas habituales del poder: <strong>legislativo,
+        ejecutivo y judicial</strong>. Sin embargo, a diferencia de lo que ocurre en sistemas presidenciales, los poderes
+        legislativo y ejecutivo están estrechamente relacionados.
     </p>
 
     <h4>Poder legislativo</h4>
 
     <p>
-        <!-- texto -->
+        A nivel federal, el poder legislativo corresponde al <strong>Parlamento de Canadá</strong>, formado por la Corona, la
+       <strong> Cámara de los Comunes</strong> y el <strong>Senado</strong>.
+    </p>
+
+    <p>
+        La Cámara de los Comunes constituye la principal cámara de representación democrática y está
+        formada por <strong>343 diputados</strong>.
+    </p>
+
+    <p>
+Canadá está dividido en 343 distritos o <strong>circunscripciones electorales</strong>, cada uno de los cuales elige a un
+diputado. En las elecciones federales, los ciudadanos no votan directamente al primer ministro ni
+simplemente a un partido a escala nacional, sino que votan a uno de los candidatos que se presentan
+en su circunscripción.
+    </p>
+
+    <p>
+El candidato que obtiene el mayor número de votos consigue el escaño correspondiente, aunque no
+haya obtenido más del 50 % de los votos. Este sistema electoral recibe el nombre de <strong>First-Past-thePost (FPTP)</strong>.
+    </p>
+
+    <p>
+Por ejemplo, si en una circunscripción un candidato obtiene un 40 % de los votos, otro un 35 % y un
+tercero un 25 %, el primero conseguirá el escaño aunque el 60 % de los votantes haya elegido a otros
+candidatos.
+    </p>
+
+    <p>
+Este sistema provoca que el porcentaje de escaños conseguido por un partido no tenga por qué
+coincidir con su porcentaje de votos a nivel nacional. Lo importante es cuántas circunscripciones
+consigue ganar.
+    </p>
+
+    <p>
+Después de las elecciones, el gobernador general nombra al <strong>primer ministro</strong>. Este será la persona
+capaz de mantener la <strong>confianza de la Cámara de los Comunes</strong>, normalmente el líder del partido que
+se encuentra en mejores condiciones para hacerlo.
+    </p>
+
+    <p>
+Aquí pueden producirse dos situaciones principales. Si un partido controla más de la mitad de los
+escaños de la Cámara, puede formar un <strong>Gobierno mayoritario</strong>. En esta situación puede aprobar con
+mayor facilidad sus principales propuestas, ya que dispone por sí mismo de suficientes diputados para
+ganar las votaciones.
+    </p>
+
+    <p>
+En cambio, cuando ningún partido dispone de más de la mitad de los escaños puede formarse un
+<strong>Gobierno minoritario</strong>. En este caso, el Gobierno necesita obtener el apoyo o la abstención de
+diputados de otros partidos en votaciones importantes para mantener la confianza de la Cámara y
+continuar gobernando. Esto no significa necesariamente que los partidos tengan que formar una
+coalición formal.
+    </p>
+
+    <p>
+Las elecciones federales están previstas normalmente cada <strong>cuatro año</strong>s, aunque pueden celebrarse
+antes en determinadas circunstancias. Por ejemplo, unas elecciones anticipadas pueden producirse si
+un Gobierno pierde la confianza de la Cámara de los Comunes o si se produce una disolución anticipada
+del Parlamento conforme a las reglas constitucionales.
+    </p>
+
+    <p>
+La otra gran cámara del Parlamento es el <strong>Senado</strong>, formado por <strong>105 senadores</strong>. A diferencia de los
+diputados, los senadores no son elegidos directamente por los ciudadanos. Son nombrados
+formalmente por el gobernador general siguiendo el consejo del primer ministro y pueden permanecer
+en el cargo hasta cumplir los 75 años.
+    </p>
+
+    <p>
+        Actualmente, el proceso de selección también cuenta con la participación del Independent Advisory
+        Board for Senate Appointments, un organismo independiente encargado de evaluar candidaturas y
+        presentar recomendaciones al primer ministro.
+    </p>
+
+    <p>
+        La principal función del Senado es realizar una <strong>segunda revisión de los proyectos de ley</strong>. Los
+        senadores pueden estudiarlos y debatirlos, aprobarlos, proponer modificaciones o rechazarlos.
+    </p>
+
+    <p>    
+        Cuando el Senado introduce modificaciones en un proyecto procedente de la Cámara de los Comunes,
+        ambas cámaras deben acabar aprobando el mismo texto antes de que este pueda recibir el
+        consentimiento real y convertirse en ley.
+    </p>
+
+    <p>
+        Además, el Senado tiene la función de representar los intereses de las diferentes regiones del país. Sus
+        105 miembros están distribuidos territorialmente entre las provincias y los territorios, lo que permite
+        dar mayor representación a determinadas regiones que, debido a su menor población, tienen un peso
+        reducido en la Cámara de los Comunes.
+    </p>
+
+    <p>
+        Aunque el Senado dispone de importantes poderes legislativos, la Cámara de los Comunes tiene un
+        mayor peso político debido a que sus miembros han sido elegidos directamente por los ciudadanos.
+        Además, es la Cámara de los Comunes, y no el Senado, la que determina si el Gobierno conserva la
+        confianza necesaria para continuar gobernando. Por este motivo, el Senado funciona principalmente
+        como una segunda cámara de revisión y control legislativo
     </p>
 
     <h4>Poder ejecutivo</h4>
