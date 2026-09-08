@@ -386,7 +386,7 @@ posiciones muy diferentes.
          <div class="party">
     <div class="party-title">
         <img src="paisos/canada/logo-liberal.svg" alt="Logo del Partido Liberal">
-        <h4>Partido Liberal de Canadá</h4>
+        <h4>Partido Liberal</h4>
     </div>
     <div class="party-content">
         <div class="party-text">
@@ -409,7 +409,7 @@ economía y la defensa canadienses.
        <div class="party">
     <div class="party-title">
         <img src="paisos/canada/logo-conservador.svg" alt="Logo del Partido Conservador">
-        <h4>Partido Conservador de Canadá</h4>
+        <h4>Partido Conservador</h4>
     </div>
     <div class="party-content">
         <div class="party-text">
@@ -475,7 +475,7 @@ ambiciosas contra el cambio climático.
        <div class="party">
     <div class="party-title">
         <img src="paisos/canada/logo-verd.svg" alt="Logo del Partido Verde">
-        <h4>Partido Verde de Canadá</h4>
+        <h4>Partido Verde</h4>
     </div>
     <div class="party-content">
         <div class="party-text">
@@ -496,7 +496,7 @@ sociales progresistas, servicios públicos, vivienda asequible y los derechos de
        <div class="party">
     <div class="party-title">
         <img src="paisos/canada/logo-popular.png" alt="Logo del Partido Popular">
-        <h4>Partido Popular de Canadá</h4>
+        <h4>Partido Popular</h4>
     </div>
     <div class="party-content">
         <div class="party-text">
@@ -538,7 +538,7 @@ determinadas funciones del Estado. Su influencia electoral es actualmente muy re
        <div class="party">
     <div class="party-title">
         <img src="paisos/canada/logo-comunista.png" alt="Logo del Partido Comunista">
-        <h4>Partido Comunista de Canadá</h4>
+        <h4>Partido Comunista</h4>
     </div>
     <div class="party-content">
         <div class="party-text">
