@@ -117,6 +117,11 @@ const countriesData = {
         diferentes leyes a través de un proceso conocido como <strong>devolution</strong>.
     </p>
 
+    <figure class="article-image">
+    <img src="paisos/canada/canada-provinces.png" alt="Provincies i territoris canadencs">
+    <figcaption>Provincias y territorios de canadá y sus nombres</figcaption>
+</figure>
+
     <p>
         Esto significa que, jurídicamente, el Parlamento federal conserva una autoridad mayor sobre los
         territorios que sobre las provincias. Sin embargo, durante las últimas décadas los territorios han
