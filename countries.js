@@ -154,12 +154,19 @@ simplemente a un partido a escala nacional, sino que votan a uno de los candidat
 en su circunscripción.
     </p>
 
+    <div class="image-row">
+
     <figure class="article-image">
-    <img src="canada-districts-map.png" alt="Mapa dels districtes electorals del Canadà">
-    <figcaption>
-        Distritos electorales federales de Canadá.
-    </figcaption>
-</figure>
+        <img src="canada-electoral-map.png" alt="Mapa electoral del Canadà">
+        <figcaption>Districtes electorals federals del Canadà.</figcaption>
+    </figure>
+
+    <figure class="article-image">
+        <img src="parlament-canada.png" alt="Cámara de Comunes canadiense">
+        <figcaptionCámara de Comunes canadiense.</figcaption>
+    </figure>
+
+</div>
 
     <p>
 El candidato que obtiene el mayor número de votos consigue el escaño correspondiente, aunque no
