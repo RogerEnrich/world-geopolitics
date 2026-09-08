@@ -1,5 +1,8 @@
 const countriesData = {
-
+// ================================================================================================================================================================
+// CANADÀ
+// ================================================================================================================================================================
+    
     Canada: {
 
     name: "Canadá",
@@ -377,6 +380,71 @@ ciudadanía y de la confianza del Parlamento.
 
         updated:
         "Setembre de 2026"
+    },
+
+// ================================================================================================================================================================
+// BÒSNIA I HERCEGOVINA
+// ================================================================================================================================================================
+
+    Bosnia: {
+
+        name: "Bòsnia i Hercegovina",
+
+        flag: "bosnia-flag.svg",
+
+        subtitle: "Europa · Balcans",
+
+        description:
+        "Pàgina provisional de Bòsnia i Hercegovina.",
+
+        map: "bosnia-map.svg",
+
+        capital: "Sarajevo",
+
+        population: "—",
+
+        area: "—",
+
+        currency: "—",
+
+        government: "—",
+
+        languages: "—",
+
+        keyPoints: [
+            "Contingut provisional."
+        ],
+
+        governmentOrganization: `
+            <p>
+                Aquest apartat encara està en construcció.
+            </p>
+        `,
+
+        politics:
+        "Contingut provisional.",
+
+        economy:
+        "Contingut provisional.",
+
+        society:
+        "Contingut provisional.",
+
+        geopolitics:
+        "Contingut provisional.",
+
+        relations:
+        "Contingut provisional.",
+
+        defense:
+        "Contingut provisional.",
+
+        sources:
+        "Fonts pendents d'afegir.",
+
+        updated:
+        "Setembre de 2026"
+
     }
 
 };
