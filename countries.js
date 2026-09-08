@@ -163,7 +163,7 @@ en su circunscripción.
 
     <figure class="article-image">
         <img src="parlament-canada.png" alt="Cámara de Comunes canadiense">
-        <figcaptionCámara de Comunes canadiense.</figcaption>
+        <figcaption>Cámara de Comunes canadiense.</figcaption>
     </figure>
 
 </div>
