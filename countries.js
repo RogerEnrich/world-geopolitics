@@ -383,72 +383,180 @@ posiciones muy diferentes.
 
     </p>
 
-        <h2>Partido Liberal de Canadá (PLC/CLP)</h2>
-
-        <p>
-        El <strong>Partido Liberal</strong>, liderado por <strong>Mark Carney</strong>, se sitúa entre el <strong>centro y el centroizquierda</strong>. Defiende
+         <div class="party">
+    <div class="party-title">
+        <img src="paisos/canada/logo-liberal.svg" alt="Logo del Partido Liberal">
+        <h4>Partido Liberal de Canadá</h4>
+    </div>
+    <div class="party-content">
+        <div class="party-text">
+            <p>
+                El <strong>Partido Liberal</strong>, liderado por <strong>Mark Carney</strong>, se sitúa entre el <strong>centro y el centroizquierda</strong>. Defiende
 una economía de mercado combinada con una intervención moderada del Estado para financiar
 servicios públicos, programas sociales, vivienda e infraestructuras. En cuestiones sociales suele adoptar
 posiciones progresistas y también apoya políticas contra el cambio climático. Con Carney ha puesto
 especial énfasis en el crecimiento económico, la inversión, la vivienda y el fortalecimiento de la
 economía y la defensa canadienses.
-        </p>
-         
-       <h2>Partido Conservador de Canadá (PCC/CPC)</h2>
-       <p>
-       El <strong>Partido Conservador</strong>, liderado por <strong>Pierre Poilievre</strong>, se sitúa entre el <strong>centroderecha y la derecha</strong> y
+            </p>
+        </div>
+        <img class="party-leader"
+             src="paisos/canada/mark-carney.jpg"
+             alt="Mark Carney, Líder del Partido Liberal">
+    </div>
+</div>
+
+
+       <div class="party">
+    <div class="party-title">
+        <img src="paisos/canada/logo-conservador.svg" alt="Logo del Partido Conservador">
+        <h4>Partido Conservador de Canadá</h4>
+    </div>
+    <div class="party-content">
+        <div class="party-text">
+            <p>
+                El <strong>Partido Conservador</strong>, liderado por <strong>Pierre Poilievre</strong>, se sitúa entre el <strong>centroderecha y la derecha</strong> y
 es la principal alternativa a los liberales. Defiende reducir impuestos, gasto público, burocracia y
 regulaciones para dar mayor protagonismo a ciudadanos y empresas. También presta especial atención
 al coste de la vivienda, la delincuencia y la explotación de los recursos naturales de Canadá. En
 cuestiones sociales agrupa tanto a conservadores moderados como a sectores más tradicionales.
-       </p>
-       <h2>Bloc Quebecóis (BQ)</h2>
-       <p>
-       El <strong>Bloc Québécois</strong>, liderado por <strong>Yves-François Blanchet</strong>, únicamente se presenta en Quebec y tiene
+            </p>
+        </div>
+        <img class="party-leader"
+             src="paisos/canada/lider-conservador.jpg"
+             alt="Pierre Poilievre, Líder del Partido Conservador">
+    </div>
+</div>
+
+
+<div class="party">
+    <div class="party-title">
+        <img src="paisos/canada/logo-bloc.png" alt="Logo del Bloc Québécois">
+        <h4>Bloc Québécois</h4>
+    </div>
+    <div class="party-content">
+        <div class="party-text">
+            <p>
+                El <strong>Bloc Québécois</strong>, liderado por <strong>Yves-François Blanchet</strong>, únicamente se presenta en Quebec y tiene
 como principal objetivo defender los intereses y la <strong>autonomía de esta provincia</strong>. Es además
 <strong>soberanista</strong>, por lo que defiende el derecho de Quebec a convertirse en un país independiente. En
 economía y políticas sociales suele situarse en el <strong>centroizquierda</strong>, pero su característica más
 importante es la defensa de la lengua francesa y de la identidad nacional quebequesa.
-       </p>
-       <h2>Nuevo Partido Democrático (NPD/NDP)</h2>
-       <p>
-       El <strong>NDP</strong>, liderado <strong>por Avi Lewis</strong>, se sitúa en la <strong>izquierda o centroizquierda</strong> y es de ideología
+            </p>
+        </div>
+        <img class="party-leader"
+             src="paisos/canada/lider-bloc.jpg"
+             alt="Yves-François Blanchet, Líder de Bloc Québécois">
+    </div>
+</div>
+
+       
+       <div class="party">
+    <div class="party-title">
+        <img src="paisos/canada/logo-nuevo.png" alt="Logo del Nuevo Partido Democrático">
+        <h4>Nuevo Partido Democrático</h4>
+    </div>
+    <div class="party-content">
+        <div class="party-text">
+            <p>
+                El <strong>NDP</strong>, liderado <strong>por Avi Lewis</strong>, se sitúa en la <strong>izquierda o centroizquierda</strong> y es de ideología
 socialdemócrata. Defiende una mayor intervención del Estado para reducir las desigualdades, fortalecer
 los servicios públicos y los derechos de los trabajadores y facilitar el acceso a la vivienda. También
 propone que las personas y empresas con mayores recursos paguen más impuestos y apoya políticas
 ambiciosas contra el cambio climático.
-       </p>
-       <h2>Partido Verde (PV/GP)</h2>
-       <p>
-       El <strong>Partido Verde</strong>, liderado por <strong>Elizabeth May</strong>, se sitúa generalmente en el <strong>centroizquierda o la
+            </p>
+        </div>
+        <img class="party-leader"
+             src="paisos/canada/lider-nuevo.jpg"
+             alt="Avi Lewis, Líder del NPD">
+    </div>
+</div>
+
+       
+       <div class="party">
+    <div class="party-title">
+        <img src="paisos/canada/logo-verd.svg" alt="Logo del Partido Verde">
+        <h4>Partido Verde de Canadá</h4>
+    </div>
+    <div class="party-content">
+        <div class="party-text">
+            <p>
+                El <strong>Partido Verde</strong>, liderado por <strong>Elizabeth May</strong>, se sitúa generalmente en el <strong>centroizquierda o la
 izquierda ecologista</strong>. Su principal prioridad es combatir el cambio climático mediante la reducción de
 emisiones, las energías renovables y la protección de los ecosistemas. También defiende políticas
 sociales progresistas, servicios públicos, vivienda asequible y los derechos de los pueblos indígenas.
-       </p>
-       <h2>Partido Popular de Canadá (PPC)</h2>
-       <p>
-       El <strong>PPC</strong>, liderado por <strong>Maxime Bernier</strong>, se encuentra a la <strong>derecha del Partido Conservador</strong>. Propone
+            </p>
+        </div>
+        <img class="party-leader"
+             src="paisos/canada/lider-verd.jpg"
+             alt="Elizabeth May, Líder del Partido Verde">
+    </div>
+</div>
+
+       
+       <div class="party">
+    <div class="party-title">
+        <img src="paisos/canada/logo-popular.png" alt="Logo del Partido Popular">
+        <h4>Partido Popular de Canadá</h4>
+    </div>
+    <div class="party-content">
+        <div class="party-text">
+            <p>
+                 El <strong>PPC</strong>, liderado por <strong>Maxime Bernier</strong>, se encuentra a la <strong>derecha del Partido Conservador</strong>. Propone
 reducir considerablemente el tamaño del Gobierno federal, los impuestos y las regulaciones, además
 de aumentar la autonomía de las provincias. Destaca especialmente por sus posiciones restrictivas
 sobre inmigración y sus críticas al multiculturalismo oficial y a muchas de las políticas climáticas
 actuales.
-       </p>
-       <h2>Partido de la herencia Cristiana (PHC/CHP)</h2>
-       <p>
-       El <strong>Christian Heritage Party</strong>, liderado por <strong>Rodney L. Taylor</strong>, es un pequeño partido de <strong>derecha y
+        </div>
+        <img class="party-leader"
+             src="paisos/canada/lider-popular.png"
+             alt="Maxime Bernier, Líder del Partido Popular">
+    </div>
+</div>
+
+      
+       <div class="party">
+    <div class="party-title">
+        <img src="paisos/canada/logo-heritage.jpg" alt="Logo de Christian Heritage">
+        <h4>Christian Heritage Party</h4>
+    </div>
+    <div class="party-content">
+        <div class="party-text">
+            <p>
+                El <strong>Christian Heritage Party</strong>, liderado por <strong>Rodney L. Taylor</strong>, es un pequeño partido de <strong>derecha y
 socialmente conservador</strong>. Basa buena parte de sus propuestas en valores cristianos tradicionales,
 especialmente en cuestiones familiares y sociales, y también defiende reducir impuestos y limitar
 determinadas funciones del Estado. Su influencia electoral es actualmente muy reducida.
+            </p>
+        </div>
+        <img class="party-leader"
+             src="paisos/canada/lider-heritage.jpg"
+             alt="Rodney L. Taylor, Líder de Christian Heritage Party">
+    </div>
+</div>
+       
 
-       </p>
-       <h2>Partido Comunista de Canadá (PLC/CLP)</h2>
-       <p>
-       El <strong>Partido Comunista</strong>, liderado por <strong>Drew Garvie</strong>, se sitúa en la <strong>izquierda radical</strong>. Considera que el
+       <div class="party">
+    <div class="party-title">
+        <img src="paisos/canada/logo-comunista.png" alt="Logo del Partido Comunista">
+        <h4>Partido Comunista de Canadá</h4>
+    </div>
+    <div class="party-content">
+        <div class="party-text">
+            <p>
+                El <strong>Partido Comunista</strong>, liderado por <strong>Drew Garvie</strong>, se sitúa en la <strong>izquierda radical</strong>. Considera que el
 capitalismo genera grandes desigualdades y propone avanzar hacia una economía socialista con mayor
 propiedad pública, poder para los trabajadores y sindicatos y redistribución de la riqueza. Es
 actualmente un partido muy minoritario.
-       </p> `,
+            </p>
+        </div>
+        <img class="party-leader"
+             src="paisos/canada/lider-comunista.jpg"
+             alt="Drew Garvie, Líder del Partido Comunista">
+    </div>
+</div>
+       `,
 
+        
         economy:
         "-",
         
