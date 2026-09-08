@@ -386,7 +386,7 @@ ciudadanía y de la confianza del Parlamento.
 // BÒSNIA I HERCEGOVINA
 // ================================================================================================================================================================
 
-    Bosnia: {
+    Bosnia_and_Herzegovina: {
 
         name: "Bòsnia i Hercegovina",
 
