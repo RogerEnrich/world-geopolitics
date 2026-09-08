@@ -392,7 +392,7 @@ ciudadanía y de la confianza del Parlamento.
 
         flag: "bosnia-flag.svg",
 
-        subtitle: "Europa · Balcans",
+        subtitle: "Europa · Balcanes",
 
         description:
         "Pàgina provisional de Bòsnia i Hercegovina.",
