@@ -6,13 +6,13 @@ const countriesData = {
     Canada: {
 
     name: "Canadá",
-    flag: "canada-flag.svg",
+    flag: "paisos/canada/canada-flag.svg",
     subtitle: "América del Norte",
         
     description:
     "Una gran potència territorial i econòmica del nord d’Amèrica, estretament vinculada als Estats Units i amb una posició estratègica creixent a l’Àrtic.",
 
-    map: "canada-map.svg",
+    map: "paisos/canada/canada-map.svg",
 
     capital: "Ottawa",
 
@@ -160,12 +160,12 @@ en su circunscripción.
     <div class="image-row">
 
     <figure class="article-image">
-        <img src="canada-districts-map.png" alt="Mapa electoral del Canadà">
+        <img src="paisos/canada/canada-districts-map.png" alt="Mapa electoral del Canadà">
         <figcaption>Districtes electorals federals del Canadà.</figcaption>
     </figure>
 
     <figure class="article-image">
-        <img src="parlament-canada.jpg" alt="Cámara de Comunes canadiense">
+        <img src="paisos/canada/parlament-canada.jpg" alt="Cámara de Comunes canadiense">
         <figcaption>Cámara de Comunes canadiense.</figcaption>
     </figure>
 
@@ -276,7 +276,7 @@ representación política de Canadá tanto dentro como fuera del país.
 </p>
 
 <figure class="article-image">
-    <img src="mark-carney.jpg" alt="Primer ministre Canadenc">
+    <img src="paisos/canada/mark-carney.jpg" alt="Primer ministre Canadenc">
     <figcaption>Mark Carney, primer ministro canadiense</figcaption>
 </figure>
 
@@ -395,14 +395,14 @@ ciudadanía y de la confianza del Parlamento.
 
         name: "Bòsnia i Hercegovina",
 
-        flag: "bosnia-flag.svg",
+        flag: "paisos/bosnia/bosnia-flag.svg",
 
         subtitle: "Europa · Balcanes",
 
         description:
         "Pàgina provisional de Bòsnia i Hercegovina.",
 
-        map: "bosnia-map.svg",
+        map: "paisos/bosnia/bosnia-map.svg",
 
         capital: "Sarajevo",
 
