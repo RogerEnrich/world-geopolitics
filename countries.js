@@ -555,6 +555,15 @@ actualmente un partido muy minoritario.
     </div>
 </div>
 
+<h4>Espectro Izqauierda-Derecha</h4>
+
+<p>
+Una vez hecha esta introducción de cada partido nos falta saber donde se sitúan exactamente dentro del famoso <strong>espectro izquierda-derecha</strong>.
+De esa forma tendríamos una imagen más o menos como la que sigue este párrafo. Tenemos que tener en cuenta, pero, que esta imagen se basa en
+aspectos generales y que podría variar un poco dependiendo de si entramos en temas en concreto. Por ahora podemos detacar la inclinación del
+gobierno actual hacia la <strong>izquierd</strong>a, cómo comentábamos. Sin embargo nos adentraremos más en detalles en los próximos apartados.
+</p>
+
 <figure class="article-image spectrum-image">
     <img src="paisos/canada/logos-partits-canada.png"
          alt="Espectro político de los partidos de Canadá">
