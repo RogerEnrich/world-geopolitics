@@ -590,6 +590,93 @@ Sin embargo, los liberales no alcanzaron la mayoría absoluta, que requiere 172 
     <figcaption>Mapa del resultado de las elecciones federales canadienses del 28 de abril del 2025.</figcaption>
 </figure>
 
+<h3>Geografía del voto</h3>
+
+<p>
+    El mapa de los resultados electorales permite observar que el apoyo a los partidos políticos canadienses 
+    <strong>no se distribuye de manera uniforme por todo el territorio</strong>. Las diferencias ideológicas 
+    explicadas anteriormente también tienen una importante dimensión geográfica: determinados partidos obtienen 
+    mejores resultados en grandes ciudades, otros dominan amplias zonas rurales y algunos concentran buena parte 
+    de su apoyo en regiones concretas del país.
+</p>
+
+<h4>La división entre las ciudades y las zonas rurales</h4>
+
+<p>
+    Una de las diferencias más visibles es la existente entre las <strong>grandes áreas urbanas y las regiones rurales</strong>. 
+    El Partido Liberal obtiene buena parte de su representación en grandes ciudades y áreas metropolitanas, mientras 
+    que el Partido Conservador presenta una fortaleza mucho mayor en numerosas circunscripciones rurales y ciudades 
+    de menor tamaño. Esto ayuda a explicar por qué, aunque los liberales y los conservadores sean los dos grandes 
+    partidos nacionales, sus votantes pueden encontrarse concentrados en territorios muy distintos.
+</p>
+
+<p>
+    Entre ambos espacios se encuentran los <strong>suburbios de las grandes ciudades</strong>, que tienen una especial 
+    importancia electoral. Estas circunscripciones pueden ser mucho más competitivas y cambiar de partido entre unas 
+    elecciones y otras. Como consecuencia, los suburbios de grandes áreas metropolitanas como Toronto pueden convertirse 
+    en uno de los principales campos de batalla de una elección federal, ya que ganar un número relativamente pequeño 
+    de estos distritos puede determinar qué partido obtiene más escaños en la Cámara de los Comunes.
+</p>
+
+<h4>Las diferencias entre el este y el oeste</h4>
+
+<p>
+    Otra fractura muy clara aparece entre diferentes regiones del país. Las provincias de las 
+    <strong>Praderas, especialmente Alberta y Saskatchewan, muestran un apoyo muy elevado al Partido Conservador</strong>. 
+    En cambio, el Partido Liberal obtiene resultados mucho mejores en buena parte de Ontario, las grandes áreas urbanas 
+    y las provincias atlánticas.
+</p>
+
+<p>
+    Esta diferencia no es únicamente electoral, sino que refleja también la existencia de 
+    <strong>intereses económicos y políticos distintos entre las regiones</strong>. Las provincias occidentales tienen 
+    una fuerte relación con sectores como la energía, la agricultura y la explotación de recursos naturales, mientras 
+    que otras regiones presentan estructuras económicas y sociales diferentes. Como resultado, cuestiones como la 
+    política energética, los impuestos, la regulación medioambiental o la relación entre las provincias y el Gobierno 
+    federal pueden generar importantes tensiones territoriales.
+</p>
+
+<h4>La particularidad de Quebec</h4>
+
+<p>
+    <strong>Quebec constituye un caso diferente al del resto de Canadá</strong>. Allí la competición electoral no se 
+    limita principalmente a liberales y conservadores, ya que el Bloc Québécois mantiene una presencia importante. 
+    Este partido concentra su actividad exclusivamente en Quebec y defiende los intereses de la provincia y el 
+    nacionalismo quebequés.
+</p>
+
+<p>
+    Por este motivo, el comportamiento electoral de Quebec también está influido por cuestiones como 
+    <strong>la identidad nacional, la lengua francesa, la autonomía provincial y la relación de Quebec con la federación canadiense</strong>. 
+    Esto hace que el eje tradicional entre izquierda y derecha no sea suficiente por sí solo para entender completamente 
+    el voto en esta provincia.
+</p>
+
+<h4>¿Qué consecuencias tiene esta geografía electoral?</h4>
+
+<p>
+    La distribución territorial del voto tiene importantes consecuencias para la política canadiense. En primer lugar, 
+    obliga a los grandes partidos a elaborar estrategias diferentes según la región. Los conservadores necesitan mantener 
+    su fortaleza en el oeste y las zonas rurales, pero también ganar suficientes circunscripciones suburbanas y urbanas 
+    para formar gobierno. Los liberales, por su parte, dependen en gran medida de las grandes áreas metropolitanas y de 
+    determinadas regiones del este, pero también necesitan ser competitivos fuera de sus principales bastiones.
+</p>
+
+<p>
+    En segundo lugar, esta distribución puede provocar una sensación de <strong>polarización regional</strong>. Una provincia 
+    puede votar de forma abrumadora por un partido y, aun así, terminar gobernada desde Ottawa por otro que apenas dispone 
+    de representación en esa región. Esto puede aumentar el descontento hacia el Gobierno federal y reforzar debates sobre 
+    la autonomía provincial, la distribución de recursos y el peso político de las distintas regiones del país.
+</p>
+
+<p>
+    Finalmente, hay que tener cuidado al interpretar el mapa electoral. <strong>El tamaño de una circunscripción en el mapa 
+    no representa el número de votantes que contiene</strong>. Las circunscripciones rurales y del norte pueden ocupar 
+    enormes extensiones territoriales, mientras que las de ciudades como Toronto, Montreal o Vancouver son físicamente 
+    muy pequeñas. Sin embargo, cada una elige un solo diputado. Por esta razón, un mapa puede parecer dominado visualmente 
+    por un partido aunque la diferencia real en número de votos entre los principales partidos sea mucho menor.
+</p>
+
 `,
 
         
