@@ -555,9 +555,10 @@ actualmente un partido muy minoritario.
     </div>
 </div>
 
-<figure class="article-image">
-    <img src="paisos/canada/logos-partits-canada.png" alt="Termòmetre polític">
-    <figcaption>Termómetro político canadiense</figcaption>
+<figure class="article-image spectrum-image">
+    <img src="paisos/canada/logos-partits-canada.png"
+         alt="Espectro político de los partidos de Canadá">
+    <figcaption>Posición aproximada de los principales partidos políticos de Canadá en el eje izquierda-derecha.</figcaption>
 </figure>
        `,
 
