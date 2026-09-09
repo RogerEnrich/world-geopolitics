@@ -555,7 +555,7 @@ actualmente un partido muy minoritario.
     </div>
 </div>
 
-<h4>Espectro Izqauierda-Derecha</h4>
+<h4>Espectro Izquierda-Derecha</h4>
 
 <p>
 Una vez hecha esta introducción de cada partido nos falta saber donde se sitúan exactamente dentro del famoso <strong>espectro izquierda-derecha</strong>.
