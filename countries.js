@@ -584,6 +584,12 @@ Poco después, Carney convocó <strong>elecciones federales</strong>, que se cel
 Sin embargo, los liberales no alcanzaron la mayoría absoluta, que requiere 172 de los 343 escaños. Esto dio lugar inicialmente a un gobierno liberal <strong>en minoría</strong>, es decir, el Partido Liberal podía gobernar, pero no disponía por sí solo de suficientes diputados para controlar la <strong>Cámara de los Comunes</strong> y debía conseguir el apoyo de otros parlamentarios para aprobar determinadas leyes y votaciones. Las elecciones reforzaron considerablemente tanto a liberales como a conservadores respecto a la situación existente antes de la convocatoria, mientras que el NDP y el Bloc Québécois perdieron representación.
 </p>
 
+<figure class="article-image spectrum-image">
+    <img src="paisos/canada/canada-eleccions25.png"
+         alt="Mapa elecciones federales canadienses 2025">
+    <figcaption>Mapa del resultado de las elecciones federales canadienses del 28 de abril del 2025.</figcaption>
+</figure>
+
 `,
 
         
