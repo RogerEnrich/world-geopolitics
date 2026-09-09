@@ -569,7 +569,22 @@ gobierno actual hacia la <strong>izquierd</strong>a, cómo comentábamos. Sin em
          alt="Espectro político de los partidos de Canadá">
     <figcaption>Posición aproximada de los principales partidos políticos de Canadá en el eje izquierda-derecha.</figcaption>
 </figure>
-       `,
+
+<h3>Gobierno Actual</h3>
+
+<p>
+Actualmente, Canadá está gobernado por el <strong>Partido Liberal</strong>, encabezado por el primer ministro <strong>Mark Carney</strong>. Carney llegó al cargo en <strong>marzo de 2025</strong> tras ser elegido líder del Partido Liberal, sustituyendo a <strong>Justin Trudeau</strong>, y fue investido como 24.º primer ministro de Canadá el 14 de marzo. En ese momento no llegó al poder mediante unas elecciones generales, sino por un cambio de liderazgo dentro del partido que ya gobernaba el país.
+</p>
+
+<p>
+Poco después, Carney convocó <strong>elecciones federales</strong>, que se celebraron el <strong>28 de abril de 2025</strong>. El Partido Liberal volvió a ser la fuerza con más representación y obtuvo <strong>169 de los 343</strong> escaños de la Cámara de los Comunes. Los <strong>conservadores</strong> quedaron en segunda posición con 144 escaños, mientras que el <strong>Bloc Québécois</strong> consiguió 22, el <strong>Nuevo Partido Democrático</strong> (NDP) 7 y el <strong>Partido Verde</strong> 1.
+</p>
+
+<p>
+Sin embargo, los liberales no alcanzaron la mayoría absoluta, que requiere 172 de los 343 escaños. Esto dio lugar inicialmente a un gobierno liberal <strong>en minoría</strong>, es decir, el Partido Liberal podía gobernar, pero no disponía por sí solo de suficientes diputados para controlar la <strong>Cámara de los Comunes</strong> y debía conseguir el apoyo de otros parlamentarios para aprobar determinadas leyes y votaciones. Las elecciones reforzaron considerablemente tanto a liberales como a conservadores respecto a la situación existente antes de la convocatoria, mientras que el NDP y el Bloc Québécois perdieron representación.
+</p>
+
+`,
 
         
         economy:
